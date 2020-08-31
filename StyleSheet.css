@@ -1,0 +1,15 @@
+﻿body {
+}
+#div {
+    height:165px;
+    padding-top:15px;
+    margin-bottom:10px;
+}
+#div2{
+    padding-top:18px;
+    margin-top:0px;
+}
+
+.image1{
+    border-radius:10px;
+}
